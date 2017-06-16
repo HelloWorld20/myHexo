@@ -479,14 +479,14 @@ use_motion: true
 fancybox: true
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 #three_waves
 three_waves: false
 
 # Only fit scheme Pisces
 # Canvas-ribbon
-canvas_ribbon: true
+canvas_ribbon: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.

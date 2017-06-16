@@ -117,7 +117,7 @@ vue-cli多页面项目改造参考[yaoyao1987/vue-cli-multipage](https://github.
 
 ## vue-resource设置header，post xml写法
 
-```
+```js
     this.$http.post( logApi ,(xml string),{
             headers: {'Content-type': 'application/xml;charset=UTF-8'}
         }).then(function(res) {
