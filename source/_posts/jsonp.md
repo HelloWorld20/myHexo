@@ -83,7 +83,7 @@ app.get('/', function (req, res) {
 
 # 关于jQuery奇怪的报错
 
-当
+当用jQuery做jsonp请求是，可能会报`Uncaught SyntaxError: Unexpected token :`错。常理会认为某个地方出现了语法错误。其实不然。错误的地方在于`接口不支持`。返回的结果jQuery无法处理。才会报这个错。语法错误并不是返回的数据语法错误。
 
 # CORS跨域
 
