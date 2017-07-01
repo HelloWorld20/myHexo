@@ -1,7 +1,7 @@
 ---
 title: 部署脚本编写
 date: 2017-06-08 09:20:07
-tags: [vue, vue-cli]
+tags: [vue, 前端技术]
 ---
 
 # 前言

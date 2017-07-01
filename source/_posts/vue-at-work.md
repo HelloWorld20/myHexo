@@ -1,7 +1,7 @@
 ---
 title: 在实际项目中使用vue开发遇到的问题
 date: 2017-04-25 09:20:07
-tags: [vue, vue-cli]
+tags: [vue, 前端技术]
 ---
 
 # 前言

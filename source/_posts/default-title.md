@@ -1,7 +1,7 @@
 ---
 title: 关于toString、valueOf自动执行的问题
 date: 2017-04-07 16:33:07
-tags:
+tags: [前端技术]
 ---
 
 原文：[JavaScript 对象转换之toString、valueOf](http://frontenddev.org/link/convert-the-tostring-the-valueof-javascript-object.html)

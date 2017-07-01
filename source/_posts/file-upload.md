@@ -1,7 +1,7 @@
 ---
 title: 关于web文件上传
 date: 2017-04-12 13:26:07
-tags: [HTML5, JavaScript]
+tags: [前端技术]
 ---
 
 再说说文件上传客户端的问题。阮一峰大神这篇解释挺清楚[文件上传的渐进式增强](http://www.ruanyifeng.com/blog/2012/08/file_upload.html)。所以原理就不再赘述，就在这记录下实现的方法。

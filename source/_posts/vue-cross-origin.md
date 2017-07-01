@@ -1,7 +1,7 @@
 ---
 title: vue-cli中开发调用跨域接口的问题
 date: 2017-04-25 13:25:07
-tags: [vue, vue-cli]
+tags: [vue, 前端技术]
 ---
 
 # 说明
