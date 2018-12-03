@@ -147,7 +147,6 @@ tpl.remove()
 
 ```
 
-![Diagram](./attachments/1536461237228.drawio.html)
 
 # 插件式总结
 
