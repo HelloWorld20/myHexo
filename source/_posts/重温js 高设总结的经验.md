@@ -49,10 +49,12 @@ Date的格式化基于`Date.parse`和`Date.UTC`
 
 	var a = [1, 5, 20, 15, 500]
 	// 从小到大
-	a.sort(function(a, b){
-		// 要注意的是，return的值需要的是数字：正、副、或者0
-		return a - b
+	a.sort(function(after, pre){
+		// 要注意的是，return的值需要的是数字：正、副、或者0。而不是true、false
+		return after - pre
 	})
+	
+* sort会改变原数组
 	
 如果不加回调函数，排序是按字符串去排序的，即使数组中每一项都是Number类型
 
